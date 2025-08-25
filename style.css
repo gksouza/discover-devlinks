@@ -69,9 +69,14 @@ body * {
   border: 0;
   border-radius: 50%;
   position: absolute;
-  right: 0;
+  left: 0;
   z-index: 1;
   transform: translateY(-15%);
+}
+
+.light #switch button {
+  right: 0;
+  left: initial;
 }
 
 #switch span {
