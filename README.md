@@ -46,7 +46,7 @@ Aprenda a programar do zero, partindo dos princípios da web até criação de a
  ## ✨ Agradecimentos
 Impossível deixar de citar o **[Mayk Brito](https://www.linkedin.com/in/maykbrito/)** que tem a melhor didática da Galáxia!, e com sua magia tornou para mim, possível tudo aquilo que pensei ser impossível. _"Sou sua fã desde a primeira vez que assisti seu sorriso revelar a melhor versão de mim."_
 
-A **[Rocketseat](https://www.rocketseat.com.br/)** _(principalmente no período da Turma 1 do Explorer, a qual tenho a honra de ter feito parte)_ por criar a melhor comunidade no Discord da qual tive a honra de conhecer pessoas brilhantes das quais até hoje tenho a honra de confraternizar.
+A **[Rocketseat](https://www.rocketseat.com.br/)** _(principalmente no período da Turma 1 do Explorer, a qual tenho a honra de ter feito parte)_ por criar a melhor comunidade no Discord da qual tive o privilégio de conhecer pessoas brilhantes das quais até hoje tenho a honra de confraternizar.
 
 Ao **[Jonisson Gomes](https://www.linkedin.com/in/jonisson-tazz/)** quando aceitou meu convite para codarmos juntos.
 
