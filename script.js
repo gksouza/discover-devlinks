@@ -12,6 +12,13 @@ function toggleMode() {
     img.setAttribute('src', './assets/avatar-dark.png')
   }
 
+  const socialImg = document.querySelector("#social-links img")
+  if (html.classList.contains("light")) {
+    socialImg.setAttribute("src", "./assets/icone-discover-lbys.png")
+  } else {
+    socialImg.setAttribute("src", "./assets/icon-lbys-white.png")
+  }
+
   const alt = document.querySelector("#profile")
   if(html.classList.contains('light')) {
     alt.setAttribute("src", "Foto de GK sorrindo com fundo de bolinhas vermelhas")
@@ -19,6 +26,7 @@ function toggleMode() {
     alt.setAttribute("src", "Foto de GK sorrindo com fundo de bolinhas brancas")
   }
 }
+
 
 // if(html.classList.contains('light')) {
   //   html.classList.remove('light')  
