@@ -55,12 +55,6 @@ body * {
   margin-top: 8px;
 }
 
-/* social-links */
-#social-links img {
-  width: 26px;
-  height: 26px;
-}
-
 /* switch */
 #switch {
   position: relative;
@@ -132,6 +126,11 @@ ul li a:hover {
   justify-content: center;
   padding: 24px 0;
   font-size: 24px;
+}
+
+#social-links img {
+  width: 26px;
+  height: 26px;
 }
 
 #social-links a {
